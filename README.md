@@ -6,7 +6,7 @@ A machine learning-based web application that analyzes user text and predicts wh
 
 ## 🚀 Live Demo
 
-👉 (Add your Render link here after deployment)
+👉 https://sentiment-analysis-nlp-kk7iermaeoozprcymvu7y4.streamlit.app/
 
 ---
 
